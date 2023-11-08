@@ -1,0 +1,1 @@
+import{j as o,B as r,L as s}from"./index-41c430e3.js";import{T as t}from"./Typography-936ba436.js";const n=()=>o.jsxs(r,{children:[o.jsx(t,{children:"OOPS! NOt found! "}),o.jsx(s,{to:"/",children:"Go back to home"})]});export{n as default};
